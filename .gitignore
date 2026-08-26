@@ -1,5 +1,6 @@
-# temporary ignore for github actions
-.github 
+# temporary ignore for github actions and snowflake setup files
+.github
+.snowflake_setup
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
