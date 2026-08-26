@@ -2,4 +2,6 @@ dbt-core
 dbt-snowflake
 Faker
 pandas
-dotenv
+python-dotenv
+PyYAML
+snowflake-connector-python
