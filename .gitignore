@@ -1,6 +1,6 @@
 # temporary ignore for github actions and snowflake setup files
 .github
-.snowflake_setup
+snowflake_setup
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -220,3 +220,4 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
